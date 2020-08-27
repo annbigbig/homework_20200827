@@ -1,5 +1,5 @@
 // vue.config.js
 module.exports = {
-   publicPath: '/'
-   //publicPath: '/apiez-ui/'
+   //publicPath: '/'
+   publicPath: '/apiez-ui/'
 }
